@@ -64,3 +64,7 @@ Render pipeline.
 *The Camera
 ..* **Depth of Field**: the range of distance
 ..* Depth of Field != Depth of focus
+* Lens Artifacts, Lens Flares
+
+
+_Reading is on the calendar. Please get it. Definitely read it!_
