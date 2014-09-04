@@ -62,5 +62,5 @@ Render pipeline.
 ..* Density
 ..* Softness
 *The Camera
-..* **Depth of Field: the range of distance
+..* **Depth of Field**: the range of distance
 ..* Depth of Field != Depth of focus
