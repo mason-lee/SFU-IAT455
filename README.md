@@ -53,3 +53,11 @@ Render pipeline.
 * Simultaneous Contrast
 * Light bounces around in our world infinitely(almost), representing all those bounces in computer is very expensive
 ..* Look at the [path tracing](http://en.wikipedia.org/wiki/Path_tracing) and [lay tracing..?]
+
+* Diffuses
+* Diffracts - how the light bounces off
+* Refraction - When a person is in the body, the water density is different from the air so the light refracts....
+* Shadows: Clue for the Source of Light
+..* Size of shadow
+..* Density
+..* Softness
